@@ -10,7 +10,6 @@
 
 ## [Проект для курса по БД](https://github.com/Quirence/DatabasesMIPT)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quirence&theme=default) \ 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quirence&theme=default) \
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quirence&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quirence&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quirence&theme=default)
