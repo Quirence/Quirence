@@ -10,5 +10,7 @@
 
 ## [Проект для курса по БД](https://github.com/Quirence/DatabasesMIPT)
 
-А еще у меня есть [одна публикация](https://mpublish.ru/wp-content/uploads/mzhite_9_47.pdf)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quirence&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quirence&theme=default) \ 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quirence&theme=default) \
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quirence&theme=default)
